@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JoelCT123
-Joel Carlberg Torsell
+- 👋 Hi, I’m Joel Carlberg Torsell
 
 <!---
 JoelCT123/JoelCT123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
